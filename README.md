@@ -3,6 +3,6 @@
 # Ferramentas de controle de versão:
 
 * Mercurial
-* GitHub
+* Git
 * Subvsersion
 * CVS
